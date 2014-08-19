@@ -1,4 +1,4 @@
 chef-elasticsearch
 ==================
 
-elasticsearch + kibana cookbook
+elasticsearch + kibana cookbook for ubuntu
